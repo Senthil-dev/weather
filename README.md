@@ -1,7 +1,7 @@
 # weather
 
 Pre-requisites
- 1.sbt
+ 1.sbt /n
  2.Scala
  3.Java
 
