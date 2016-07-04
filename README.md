@@ -1,5 +1,14 @@
 # weather
 
-To Run the App Use the Following Command : 
+Pre-requisites
+ 1.sbt
+ 2.Scala
+ 3.Java
 
-sbt compile test-only   -t com.cwb.weather.WeatherAppTest
+To Run the app Use the following command : 
+
+sbt 
+
+>compile 
+
+>test-only com.cwb.weather.WeatherAppTest
